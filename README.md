@@ -10,7 +10,7 @@ Sou um profissional dedicado ao desenvolvimento de soluções criativas e eficie
 
 - 💻 **Desenvolvimento de Software** - Criação de aplicações robustas e escaláveis
 - 🔧 **Dados** - Processamento e análise de dados em larga escala
-- 🚀 **Tecnologias Modernas** - Sempre aprendendo , dominando novas ferramentas, gestor de IA
+- 🚀 **Tecnologias Modernas** - Programação de CLP - Sempre aprendendo , dominando novas ferramentas, gestor de IA
 - 🤝 **Colaboração** - Trabalho em equipe e contribuição em projetos open-source
 
 ---
