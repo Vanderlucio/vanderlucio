@@ -9,8 +9,8 @@ Olá! Sou **Vanderlucio**, um desenvolvedor apaixonado por tecnologia e inovaç�
 Sou um profissional dedicado ao desenvolvimento de soluções criativas e eficientes. Tenho experiência em:
 
 - 💻 **Desenvolvimento de Software** - Criação de aplicações robustas e escaláveis
-- 🔧 **Engenharia de Dados** - Processamento e análise de dados em larga escala
-- 🚀 **Tecnologias Modernas** - Sempre aprendendo e dominando novas ferramentas
+- 🔧 **Dados** - Processamento e análise de dados em larga escala
+- 🚀 **Tecnologias Modernas** - Sempre aprendendo , dominando novas ferramentas, gestor de IA
 - 🤝 **Colaboração** - Trabalho em equipe e contribuição em projetos open-source
 
 ---
@@ -32,7 +32,7 @@ Trabalho com diversas tecnologias e linguagens de programação, incluindo:
 
 - **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
 - **Frameworks:** React, Node.js, Django, Spring
-- **Ferramentas:** Git, Docker, Kubernetes, AWS
+- **Ferramentas:** Git, Docker, Antigravity , API Gpt, Claude
 - **Bancos de Dados:** PostgreSQL, MongoDB, Redis
 
 ---
