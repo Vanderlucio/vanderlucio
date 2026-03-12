@@ -58,7 +58,7 @@ Estou sempre aberto a:
 
 - 📧 **E-mail:** vanderlucio.lopes@bol.com.br
 - 💼 **LinkedIn:** [Meu Perfil](https://linkedin.com/in/vanderlucio)
-- 🐙 **GitHub:** [@Vanderlucio](https://github.com/Vanderlucio)
+- 🐙 **GitHub:** [[@Vanderlucio](https://github.com/Vanderlucio)](https://github.com/Vanderlucio)
 
 ---
 
