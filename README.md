@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao Vanderlucio
 
-Olá! Sou **Vanderlucio**, um desenvolvedor apaixonado por tecnologia e inovação. Este repositório é um reflexo do meu trabalho, projetos e contribuições na comunidade de desenvolvimento de software.
+Olá! Sou **Vanderlucio**, um desenvolvedor apaixonado por tecnologia e inovação. Este repositório é um reflexo do meu trabalho, projetos e contribuições na comunidade de desenvolvimento de soluções para software e máquinas.
 
 ---
 
@@ -8,9 +8,9 @@ Olá! Sou **Vanderlucio**, um desenvolvedor apaixonado por tecnologia e inovaç�
 
 Sou um profissional dedicado ao desenvolvimento de soluções criativas e eficientes. Tenho experiência em:
 
-- 💻 **Desenvolvimento de Software** - Criação de aplicações robustas e escaláveis
-- 🔧 **Dados** - Processamento e análise de dados em larga escala
-- 🚀 **Tecnologias Modernas** - Programação de CLP - Sempre aprendendo , dominando novas ferramentas, gestor de IA
+- 💻 **Desenvolvimento de Software** - Criação de aplicações robustas e escaláveis utilizando Vibe coding
+- 🔧 **Dados** - Processamento e análise de dados local ou em nuvem
+- 🚀 **Tecnologias Modernas** - Programação de CLP , novas ferramentas, gestor de IA e vibe coding
 - 🤝 **Colaboração** - Trabalho em equipe e contribuição em projetos open-source
 
 ---
@@ -30,10 +30,10 @@ Este repositório contém:
 
 Trabalho com diversas tecnologias e linguagens de programação, incluindo:
 
-- **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
-- **Frameworks:** React, Node.js, Django, Spring
-- **Ferramentas:** Git, Docker, Antigravity , API Gpt, Claude
-- **Bancos de Dados:** PostgreSQL, MongoDB, Redis
+- **Linguagens:** Python, JavaScript, TypeScript, Java, SQL, Flutter, Java, Ladder
+- **Frameworks:** React, Node.js entre outros 
+- **Ferramentas:** Git, Docker, Antigravity , API Gpt, Claude, Node-red
+- **Bancos de Dados relacional e não relacional:** PostgreSQL, MongoDB, Redis, SQlite, MySql, Firebase
 
 ---
 
