@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao Vanderlucio
+# 👋 Bem-vindo!!!
 
 Olá! Sou **Vanderlucio**, um desenvolvedor apaixonado por tecnologia e inovação. Este repositório é um reflexo do meu trabalho, projetos e contribuições na comunidade de desenvolvimento de soluções para software e máquinas.
 
@@ -56,7 +56,7 @@ Estou sempre aberto a:
 
 ## 📫 Entre em Contato
 
-- 📧 **E-mail:** vanderlucio@email.com
+- 📧 **E-mail:** vanderlucio.lopes@bol.com.br
 - 💼 **LinkedIn:** [Meu Perfil](https://linkedin.com/in/vanderlucio)
 - 🐙 **GitHub:** [@Vanderlucio](https://github.com/Vanderlucio)
 
